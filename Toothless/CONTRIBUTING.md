@@ -6,7 +6,7 @@ Correction is contribution. Supported challenges, contrary evidence, provider cl
 2. State the claim, source, uncertainty, and distinction between observation and inference. Do not invent dates, identities, experiments, or contractual rights.
 3. Cite public sources and establish redistribution rights before including third-party material. Leave restricted material outside the repository.
 4. Apply the narrow scrub in PREPUBLICATION_REVIEW.md to your contribution and any history included with it.
-5. Submit for Breckenridge stewardship review through the review channel established at release. No public submission endpoint is configured yet.
+5. Submit for Breckenridge stewardship review through a [GitHub issue](https://github.com/Dividedwefall79/houston-toothless/issues) or pull request in the public repository. Submit only cleared material; a public issue is not a channel for restricted evidence.
 
 Do not submit credentials, personal/private information, confidential, NDA-covered or beta-restricted content, or third-party material lacking redistribution rights. Do not attach restricted evidence merely to substantiate a challenge; offer a permitted reference or describe the verification limitation.
 
