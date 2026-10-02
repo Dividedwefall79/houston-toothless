@@ -1,0 +1,16 @@
+# Keep local credentials, private review material, and generated scratch files out.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+private/
+restricted/
+work/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Ignore rules are a convenience; they do not replace publication review.
